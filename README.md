@@ -8,8 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/yunuspektass?label=Follow&style=social)](https://github.com/yunuspektass)
 
-Selçuk University, Computer Engineering
-Full Stack Software Developer at Mosstar
+Selçuk University, Computer Engineering | Full Stack Software Developer at Mosstar
 
 To contact me, please reach out via email at yunusspektas@gmail.com
 
